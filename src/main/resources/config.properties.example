@@ -1,0 +1,4 @@
+# Copia este archivo, renómbralo a "config.properties" y coloca tu token real.
+# NUNCA subas config.properties (con tu token real) a un repositorio público.
+discord.token=TU_TOKEN_AQUI
+f1.role.id=TU_ROLE_ID_AQUI
